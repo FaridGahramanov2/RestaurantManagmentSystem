@@ -1,0 +1,22 @@
+{
+  "Waiter": [
+    {
+      "name": "Monica",
+      "salary": "175"
+    },
+    {
+      "name": "Ross",
+      "salary": "150"
+    }
+  ],
+  "Cook": [
+    {
+      "name": "Phoebe",
+      "salary": "200"
+    },
+    {
+      "name": "Rachel",
+      "salary": "250"
+    }
+  ]
+}
